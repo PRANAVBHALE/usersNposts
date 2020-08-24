@@ -1,0 +1,17 @@
+.postlistview{
+    margin: auto; 
+    width: 80%;
+    background: #77A6f7;
+    display: flex;
+    flex-direction: column
+}
+
+.searchresult{
+    display: flex;
+    justify-content: space-between
+}
+
+.cell{
+    cursor: pointer;
+}
+

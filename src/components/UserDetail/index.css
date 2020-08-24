@@ -1,0 +1,15 @@
+.userdetailview{
+    margin: auto;
+    background: #77A6f7
+}
+
+.userdetail{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.company-address-detail{
+    width: 300px
+}
